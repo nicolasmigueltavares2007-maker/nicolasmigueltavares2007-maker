@@ -7,29 +7,41 @@
 
 ### Nicolas Miguel Tavares
 
-**Desenvolvimento Back-End | Java | C# | Inteligência Artificial Generativa**
+**Back-End Development | Java | C# | Generative AI**
+
+<p>
+  Desenvolvendo habilidades para transformar ideias em soluções tecnológicas.
+</p>
 
 </div>
 
-Sou Nicolas Miguel Tavares e estou construindo minha trajetória na área de tecnologia, com foco em **desenvolvimento Back-End e programação**.
+Sou Nicolas Miguel Tavares e estou construindo minha trajetória na área de tecnologia, com foco em **Desenvolvimento Back-End**, programação e criação de soluções digitais.
 
-Atualmente, curso Engenharia de Software e busco aprimorar meus conhecimentos em Java, C# e programação com Inteligência Artificial Generativa, explorando novas possibilidades para desenvolver soluções tecnológicas.
+Atualmente, curso Engenharia de Software e aprimoro meus conhecimentos em **Java, C# e Inteligência Artificial Generativa**, buscando evoluir na lógica de programação e no desenvolvimento de aplicações.
 
-Também tenho interesse em **UI/UX Design e Figma**, áreas que complementam minha visão sobre criação de aplicações, interfaces e experiência do usuário.
+Também tenho interesse em **UI/UX Design e Figma**, conhecimentos que complementam minha visão sobre interfaces, usabilidade e experiência do usuário.
 
 <div align="center">
 
 | ÁREA | FOCO |
 |:---:|:---|
-| ☕ **Java** | Lógica e programação |
-| 💻 **C#** | Desenvolvimento de aplicações |
-| 🤖 **IA Generativa** | Exploração e programação com IA |
-| 🎨 **UI/UX** | Interfaces e experiência do usuário |
-| 🖌️ **Figma** | Design e prototipação |
+| ☕ **Java** | Lógica de programação e desenvolvimento |
+| 💻 **C#** | Fundamentos e desenvolvimento de aplicações |
+| 🤖 **IA Generativa** | Programação e exploração de soluções com IA |
+| ⚙️ **Back-End** | Lógica, regras de negócio e aplicações |
+| 🎨 **UI/UX Design** | Interface, usabilidade e experiência do usuário |
+| 🖌️ **Figma** | Design e prototipação de interfaces |
 
 </div>
 
-Meu objetivo é transformar conhecimento em prática, desenvolver projetos cada vez melhores e conquistar minha primeira oportunidade profissional na área de desenvolvimento de software.
+<div align="center">
+
+<img src="https://img.shields.io/badge/FOCUS-BACK--END%20DEVELOPMENT-00F0FF?style=for-the-badge&labelColor=050505">
+<img src="https://img.shields.io/badge/MODE-CONTINUOUS%20LEARNING-00F0FF?style=for-the-badge&labelColor=050505">
+
+</div>
+
+Meu objetivo é aplicar meus conhecimentos em projetos práticos, continuar evoluindo como desenvolvedor e conquistar minha primeira oportunidade profissional na área de tecnologia.
 
 ---
 
@@ -39,25 +51,56 @@ Meu objetivo é transformar conhecimento em prática, desenvolver projetos cada 
 
 <img src="https://img.shields.io/badge/PROJECTS-IN%20DEVELOPMENT-00F0FF?style=for-the-badge&labelColor=050505">
 
+<p>
+  <i>Estudos, experimentos e desenvolvimento contínuo.</i>
+</p>
+
 </div>
 
 <div align="center">
 
+<table>
+<tr>
+<td width="50%" align="center">
+
 ### ☕ Java Development
 
-Desenvolvimento de exercícios e aplicações para praticar lógica de programação, estruturas condicionais e resolução de problemas.
+<img src="https://img.shields.io/badge/JAVA-00F0FF?style=flat-square&labelColor=050505">
+
+Prática de lógica de programação, estruturas condicionais e desenvolvimento de aplicações.
+
+</td>
+<td width="50%" align="center">
 
 ### 💻 C# Development
 
-Aprendizado dos fundamentos da linguagem C# e desenvolvimento de soluções utilizando programação orientada a objetos conforme a evolução dos estudos.
+<img src="https://img.shields.io/badge/C%23-00F0FF?style=flat-square&labelColor=050505">
+
+Estudo dos fundamentos da linguagem, resolução de problemas e programação orientada a objetos.
+
+</td>
+</tr>
+<tr>
+<td width="50%" align="center">
 
 ### 🤖 Generative AI
 
-Exploração de ferramentas de Inteligência Artificial Generativa para auxiliar no desenvolvimento de software e na criação de soluções digitais.
+<img src="https://img.shields.io/badge/GENERATIVE_AI-00F0FF?style=flat-square&labelColor=050505">
+
+Exploração da Inteligência Artificial Generativa aplicada à programação e à criação de soluções digitais.
+
+</td>
+<td width="50%" align="center">
 
 ### 🎨 UI/UX Design
 
-Estudos de interfaces, usabilidade e prototipação utilizando Figma, com foco na experiência do usuário.
+<img src="https://img.shields.io/badge/UI%2FUX%20%2B%20FIGMA-00F0FF?style=flat-square&labelColor=050505">
+
+Estudos de interfaces, prototipação, organização visual e experiência do usuário.
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -65,20 +108,21 @@ Estudos de interfaces, usabilidade e prototipação utilizando Figma, com foco n
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
-║                    PROJECT STATUS                            ║
+║                      PROJECT STATUS                          ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║  STATUS       : IN DEVELOPMENT                               ║
 ║  MAIN FOCUS   : BACK-END DEVELOPMENT                         ║
 ║  LANGUAGES    : JAVA • C#                                    ║
 ║  TECHNOLOGY   : GENERATIVE AI                                ║
+║  DESIGN       : UI/UX • FIGMA                                ║
 ║                                                              ║
-║  NEXT MISSION : BUILD • TEST • IMPROVE                       ║
+║  NEXT MISSION : LEARN • BUILD • TEST • IMPROVE               ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
-<sub>Novos projetos serão adicionados conforme forem desenvolvidos e publicados.</sub>
+<sub>Projetos serão apresentados aqui conforme forem desenvolvidos e publicados.</sub>
 
 </div>
 
@@ -90,20 +134,24 @@ Estudos de interfaces, usabilidade e prototipação utilizando Figma, com foco n
 
 <img src="https://img.shields.io/badge/STATUS-EVOLUTION%20MODE-00F0FF?style=for-the-badge&labelColor=050505">
 
+<p>
+  <i>Um passo de cada vez. Evolução constante na tecnologia.</i>
+</p>
+
 </div>
 
 <div align="center">
 
 | OBJETIVO | DIREÇÃO |
 |:---|:---|
-| ☕ **Java** | Aprofundar a lógica e a programação |
-| 💻 **C#** | Desenvolver habilidades na linguagem |
-| 🤖 **IA Generativa** | Explorar aplicações de inteligência artificial |
-| ⚙️ **Back-End** | Evoluir na construção de aplicações |
-| 🎨 **UI/UX Design** | Aprimorar interfaces e usabilidade |
-| 🖌️ **Figma** | Evoluir no design e na prototipação |
-| 🚀 **Projetos** | Aplicar conhecimentos em projetos práticos |
-| 💼 **Carreira** | Buscar a primeira oportunidade profissional |
+| ☕ **Java** | Aprimorar lógica e desenvolvimento de aplicações |
+| 💻 **C#** | Evoluir nos fundamentos e na programação orientada a objetos |
+| 🤖 **IA Generativa** | Explorar aplicações de IA no desenvolvimento de software |
+| ⚙️ **Back-End** | Aprender a construir aplicações e implementar regras de negócio |
+| 🎨 **UI/UX Design** | Melhorar conhecimentos de interfaces e usabilidade |
+| 🖌️ **Figma** | Aprimorar design e prototipação |
+| 🚀 **Projetos Práticos** | Transformar estudos em aplicações funcionais |
+| 💼 **Carreira** | Preparação para a primeira oportunidade profissional |
 
 </div>
 
@@ -112,15 +160,20 @@ Estudos de interfaces, usabilidade e prototipação utilizando Figma, com foco n
 ```text
 nicolas@github:~$ ./next_level.sh
 
-[>] LEARN        : Continuar estudando
-[>] DEVELOP     : Criar projetos práticos
-[>] IMPROVE      : Aprimorar habilidades
-[>] BUILD        : Construir portfólio
-[>] CONNECT      : Conectar-se à comunidade tech
+[01] LEARN       : Expandir conhecimentos em programação
+[02] DEVELOP     : Criar aplicações práticas
+[03] EXPLORE     : Aplicar IA Generativa
+[04] IMPROVE     : Aprimorar habilidades técnicas
+[05] BUILD       : Desenvolver projetos e portfólio
+[06] CONNECT     : Participar da comunidade tech
 
-STATUS: EVOLVING
-NEXT TARGET: BACK-END DEVELOPER
+------------------------------------------------
+STATUS      : EVOLVING
+MAIN TARGET : BACK-END DEVELOPER
+------------------------------------------------
 ```
+
+<img src="https://img.shields.io/badge/KEEP-CODING-00F0FF?style=for-the-badge&labelColor=050505">
 
 </div>
 ```
