@@ -1,228 +1,100 @@
-```html
+```markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0D1117,100:050505&height=220&section=header&text=NICOLAS%20MIGUEL%20TAVARES&fontSize=38&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20JAVA%20%7C%20C%23%20%7C%20GENERATIVE%20AI&descAlignY=68&descSize=16&descColor=00F0FF" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0D1117,100:050505&height=180&section=header&text=NICOLAS%20MIGUEL%20TAVARES&fontSize=34&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=BACK-END%20%7C%20JAVA%20%7C%20C%23%20%7C%20IA%20GENERATIVA&descAlignY=65&descSize=14&descColor=00F0FF" width="100%">
 
 </div>
 
-<div align="center">
+# 👨‍💻 Sobre mim
 
-### BACK-END • JAVA • C# • IA GENERATIVA • UI/UX • FIGMA
+Sou Nicolas Miguel Tavares, em formação na área de Engenharia de Software, com foco em desenvolvimento Back-End.
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=800&lines=SYSTEM+INITIALIZED...;WELCOME+TO+NICOLAS'S+GITHUB;JAVA+DEVELOPER+IN+PROGRESS;C%23+DEVELOPER+IN+PROGRESS;GENERATIVE+AI+PROGRAMMING;UI%2FUX+DESIGNER;FIGMA+DESIGNER;LEARN.+BUILD.+EVOLVE." alt="Typing Animation">
+Tenho conhecimentos em Java e estou desenvolvendo minhas habilidades em C#, lógica de programação e construção de aplicações.
 
-<br>
+Também tenho conhecimentos complementares em UX/UI Design, Figma e programação com Inteligência Artificial Generativa, explorando diferentes formas de desenvolver soluções digitais.
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F0FF?style=for-the-badge&labelColor=050505">
-<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20DEVELOPMENT-00F0FF?style=for-the-badge&labelColor=050505">
-<img src="https://img.shields.io/badge/MODE-DEVELOPMENT-00F0FF?style=for-the-badge&labelColor=050505">
+🎯 Meu objetivo é evoluir como desenvolvedor Back-End, construir projetos práticos e conquistar minha primeira oportunidade profissional na área de tecnologia.
 
+---
+
+# 💻 Tecnologias
+
+### 🚀 Foco principal — Back-End
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=java,cs" alt="Java e C#">
 </div>
 
----
+- ☕ Java
+- 💻 C#
+- 🧩 Lógica de programação
 
-## ` SOBRE MIM`
+### 🤖 Programação com IA Generativa
 
-<div align="center">
+- Inteligência Artificial Generativa
+- Exploração de ferramentas de IA para desenvolvimento de software
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                    USER PROFILE // ONLINE                   ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  NOME      : Nicolas Miguel Tavares                          ║
-║  ÁREA      : Tecnologia                                      ║
-║  CURSO     : Engenharia de Software                          ║
-║  SEMESTRE  : 2º semestre                                     ║
-║  FOCO      : Java • C# • IA Generativa • UI/UX               ║
-║  STATUS    : Em desenvolvimento                              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+### 🎨 Conhecimentos complementares
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma">
 </div>
 
-Sou Nicolas Miguel Tavares e estou construindo minha trajetória profissional na área de tecnologia, com foco em **desenvolvimento Back-End, programação em Java e C#, e programação com Inteligência Artificial Generativa**.
-
-Atualmente, meus principais conhecimentos e áreas de desenvolvimento são:
-
-* ☕ **Java** — lógica de programação e desenvolvimento de aplicações.
-* 💻 **C#** — programação e desenvolvimento de soluções.
-* 🤖 **IA Generativa** — exploração de ferramentas e programação com inteligência artificial.
-* 🎨 **UI Design** — criação e organização de interfaces.
-* 🧠 **UX Design** — experiência do usuário e usabilidade.
-* 🖌️ **Figma** — design e prototipação de interfaces.
-
-Meu objetivo é unir **programação, desenvolvimento Back-End, inteligência artificial e experiência do usuário**, evoluindo minhas habilidades e me preparando para oportunidades profissionais na área de tecnologia.
+- UI Design
+- UX Design
+- Figma e prototipação
 
 ---
 
-## `TECH STACK`
+# 🚀 Projetos em destaque
 
-<div align="center">
+### ☕ Projetos Java
 
-### PROGRAMMING
+Exercícios e aplicações desenvolvidos para praticar lógica de programação, estruturas condicionais, repetição e resolução de problemas.
 
-<img src="https://skillicons.dev/icons?i=java,cs" height="65" alt="Java e C#">
+### 💻 Projetos C#
 
-<br><br>
+Prática de fundamentos da linguagem C#, com foco em lógica de programação e desenvolvimento de aplicações.
 
-### GENERATIVE AI
+### 🤖 Programação com IA Generativa
 
-<img src="https://img.shields.io/badge/GENERATIVE%20AI-050505?style=for-the-badge&logo=openai&logoColor=00F0FF">
+Exploração de ferramentas de inteligência artificial para apoiar a criação de sistemas, desenvolver ideias e acelerar o aprendizado de programação.
 
-<br><br>
+### 🎨 UX/UI Design
 
-### DESIGN
+Estudos de interfaces, usabilidade e prototipação utilizando Figma.
 
-<img src="https://skillicons.dev/icons?i=figma" height="65" alt="Figma">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/UI%20DESIGN-050505?style=for-the-badge&logo=figma&logoColor=00F0FF">
-<img src="https://img.shields.io/badge/UX%20DESIGN-050505?style=for-the-badge&logo=figma&logoColor=00F0FF">
-
-</div>
+> Meus projetos serão adicionados a esta seção conforme forem desenvolvidos e publicados.
 
 ---
 
-## ` CONHECIMENTOS`
+# 🎯 Atualmente
 
-| Área | Conhecimento |
-|---|---|
-| ☕ **Java** | Programação e lógica |
-| 💻 **C#** | Programação e desenvolvimento |
-| 🤖 **IA Generativa** | Programação com inteligência artificial |
-| 🎨 **UI Design** | Criação e organização de interfaces |
-| 🧠 **UX Design** | Experiência e usabilidade |
-| 🖌️ **Figma** | Design e prototipação |
-
----
-
-## ` FERRAMENTAS`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=java,cs,figma,github" height="60" alt="Java, C#, Figma e GitHub">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Java-DEVELOPMENT-050505?style=for-the-badge&logo=openjdk&logoColor=00F0FF">
-<img src="https://img.shields.io/badge/C%23-DEVELOPMENT-050505?style=for-the-badge&logo=csharp&logoColor=00F0FF">
-<img src="https://img.shields.io/badge/Figma-DESIGN-050505?style=for-the-badge&logo=figma&logoColor=00F0FF">
-<img src="https://img.shields.io/badge/GitHub-DEVELOPMENT-050505?style=for-the-badge&logo=github&logoColor=00F0FF">
-
-</div>
+- ☕ Aprimorando conhecimentos em Java
+- 💻 Desenvolvendo habilidades em C#
+- 🧩 Praticando lógica de programação
+- 🤖 Explorando programação com IA Generativa
+- 🎨 Evoluindo em UX/UI Design e Figma
+- 🚀 Desenvolvendo projetos para meu portfólio
+- 🎯 Buscando minha primeira oportunidade em Desenvolvimento de Software
 
 ---
 
-## `PROJETOS`
-
-<div align="center">
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                     PROJECT DATABASE                        ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  STATUS: INITIALIZING                                        ║
-║                                                              ║
-║  Meus primeiros projetos estão em desenvolvimento.           ║
-║                                                              ║
-║  Atualmente estou focado em aprimorar meus conhecimentos     ║
-║  em Java, C#, IA Generativa e desenvolvimento Back-End.      ║
-║                                                              ║
-║  NEXT: BUILD FIRST PROJECT                                   ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## ` OBJETIVOS ATUAIS`
-
-```text
-nicolas@github:~$ ./objectives.sh
-
-[✓] Estudar Engenharia de Software
-[>] Aprimorar conhecimentos em Java
-[>] Desenvolver habilidades em C#
-[>] Explorar programação com IA Generativa
-[>] Evoluir em desenvolvimento Back-End
-[✓] Desenvolver habilidades em UI/UX
-[✓] Evoluir no Figma
-
-[>] Criar primeiros projetos
-[>] Construir portfólio
-[>] Aplicar conhecimentos em projetos reais
-[>] Buscar primeira oportunidade na área de tecnologia
-[>] Evoluir profissionalmente
-
-STATUS: EVOLUTION MODE
-NEXT TARGET: BUILD
-```
-
----
-
-## ` PAC-MAN // ARCADE MODE`
-
-<div align="center">
-
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/pacman.gif" width="220" alt="Pac-Man">
-
-### SYSTEM ARCADE // PLAYER 1
-
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                     PAC-MAN ARCADE                           ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  PLAYER    : NICOLAS                                         ║
-║  GAME MODE : CLASSIC                                         ║
-║  MISSION   : COLLECT ALL DOTS                                ║
-║                                                              ║
-║  EAT • SURVIVE • LEVEL UP                                    ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-<a href="https://www.google.com/logos/2010/pacman10-i.html" target="_blank">
-<img src="https://img.shields.io/badge/PLAY_PAC--MAN-00F0FF?style=for-the-badge&labelColor=050505" alt="Jogar Pac-Man">
-</a>
-
-<br><br>
-
-<sub>CLASSIC ARCADE • OPEN IN YOUR BROWSER</sub>
-
-</div>
-
----
-
-## ` CONECTE-SE`
+# 📫 Vamos nos conectar?
 
 <div align="center">
 
 <a href="https://github.com/nicolasmigueltavares2007-maker">
-<img src="https://img.shields.io/badge/GITHUB-NICOLAS%20MIGUEL%20TAVARES-050505?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-Nicolas%20Miguel-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 
 <a href="https://www.linkedin.com/in/nicolas-miguel-tavares-404275329/">
-<img src="https://img.shields.io/badge/LINKEDIN-LET'S%20CONNECT-050505?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
 </a>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0D1117,100:050505&height=130&section=footer" width="100%">
-
-### LEARN • BUILD • CREATE • EVOLVE
-
-<sub>© 2026 Nicolas Miguel Tavares • Software Engineering</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0D1117,100:050505&height=100&section=footer" width="100%">
 
 </div>
 ```
