@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0D1117,100:050505&height=180&section=header&text=NICOLAS%20MIGUEL%20TAVARES&fontSize=34&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn&desc=BACK-END%20%7C%20JAVA%20%7C%20C%23%20%7C%20IA%20GENERATIVA&descAlignY=65&descSize=14&descColor=00F0FF" width="100%">
