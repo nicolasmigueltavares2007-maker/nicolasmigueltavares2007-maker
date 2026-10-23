@@ -179,38 +179,6 @@ NEXT TARGET: BUILD
 
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha percorrendo o gráfico de contribuições do GitHub" width="100%">
 
-### EAT • GROW • EVOLVE
-
-<a href="https://playsnake.org/" target="_blank">
-<img src="https://img.shields.io/badge/▶_JOGAR_COBRINHA-00F0FF?style=for-the-badge&labelColor=050505" alt="Jogar cobrinha">
-</a>
-
-<br><br>
-
-<sub>ARCADE MODE • SNAKE GAME</sub>
-
-</div>
-
----
-
-<div align="center">
-
-## `PAC-MAN // ARCADE MODE`
-
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/pacman.gif" width="220" alt="Pac-Man">
-
-<br>
-
-<a href="https://www.google.com/logos/2010/pacman10-i.html" target="_blank">
-<img src="https://img.shields.io/badge/▶_JOGAR_PAC--MAN-00F0FF?style=for-the-badge&labelColor=050505" alt="Jogar Pac-Man">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
 ## `CONECTE-SE`
 
 <a href="https://github.com/nicolasmigueltavares2007-maker">
