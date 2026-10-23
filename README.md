@@ -1,126 +1,35 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0D1117,100:050505&height=220&section=header&text=NICOLAS%20MIGUEL%20TAVARES&fontSize=38&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&desc=BACK-END%20%7C%20JAVA%20%7C%20C%23%20%7C%20GENERATIVE%20AI&descAlignY=68&descSize=16&descColor=00F0FF" width="100%">
-
-### BACK-END • JAVA • C# • IA GENERATIVA • UI/UX • FIGMA
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=800&lines=SYSTEM+INITIALIZED...;JAVA+DEVELOPER+IN+PROGRESS;C%23+DEVELOPER+IN+PROGRESS;GENERATIVE+AI+PROGRAMMING;UI%2FUX+DESIGNER;LEARN.+BUILD.+EVOLVE." alt="Typing Animation">
-
-<br>
-
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F0FF?style=for-the-badge&labelColor=050505">
-<img src="https://img.shields.io/badge/FOCUS-BACK--END-00F0FF?style=for-the-badge&labelColor=050505">
-<img src="https://img.shields.io/badge/MODE-DEVELOPMENT-00F0FF?style=for-the-badge&labelColor=050505">
-
-</div>
-
----
-
-<div align="center">
-
 ## `SOBRE MIM`
 
-```text id="profile"
-╔══════════════════════════════════════════════════════════════╗
-║                    USER PROFILE // ONLINE                   ║
-╠══════════════════════════════════════════════════════════════╣
-║                                                              ║
-║  NOME      : Nicolas Miguel Tavares                          ║
-║  ÁREA      : Tecnologia                                      ║
-║  CURSO     : Engenharia de Software                          ║
-║  SEMESTRE  : 2º semestre                                     ║
-║  FOCO      : Java • C# • IA Generativa • UI/UX               ║
-║  STATUS    : EM DESENVOLVIMENTO                              ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+<img src="https://img.shields.io/badge/HELLO%2C_WORLD-00F0FF?style=for-the-badge&labelColor=050505">
 
-Sou Nicolas Miguel Tavares, em formação na área de Engenharia de Software, com foco em desenvolvimento Back-End, Java, C# e programação com Inteligência Artificial Generativa.
+### Nicolas Miguel Tavares
 
-Meus interesses e conhecimentos incluem:
-
-☕ **Java** — lógica de programação e desenvolvimento.
-
-💻 **C#** — programação e desenvolvimento de aplicações.
-
-🤖 **IA Generativa** — exploração de ferramentas e soluções com inteligência artificial.
-
-🎨 **UI/UX Design** — criação de interfaces e experiência do usuário.
-
-🖌️ **Figma** — design e prototipação.
-
-Meu objetivo é evoluir como desenvolvedor, criar projetos práticos e conquistar minha primeira oportunidade profissional na área de tecnologia.
+**Desenvolvimento Back-End | Java | C# | Inteligência Artificial Generativa**
 
 </div>
 
----
+Sou Nicolas Miguel Tavares e estou construindo minha trajetória na área de tecnologia, com foco em **desenvolvimento Back-End e programação**.
+
+Atualmente, curso Engenharia de Software e busco aprimorar meus conhecimentos em Java, C# e programação com Inteligência Artificial Generativa, explorando novas possibilidades para desenvolver soluções tecnológicas.
+
+Também tenho interesse em **UI/UX Design e Figma**, áreas que complementam minha visão sobre criação de aplicações, interfaces e experiência do usuário.
 
 <div align="center">
 
-## `TECH STACK`
-
-### PROGRAMMING
-
-<img src="https://skillicons.dev/icons?i=java,cs" height="65" alt="Java e C#">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/JAVA-PROGRAMMING-050505?style=for-the-badge&logo=openjdk&logoColor=00F0FF">
-<img src="https://img.shields.io/badge/C%23-PROGRAMMING-050505?style=for-the-badge&logo=csharp&logoColor=00F0FF">
-
-<br><br>
-
-### GENERATIVE AI
-
-<img src="https://img.shields.io/badge/GENERATIVE%20AI-ARTIFICIAL%20INTELLIGENCE-050505?style=for-the-badge&logo=openai&logoColor=00F0FF">
-
-<br><br>
-
-### UI/UX DESIGN
-
-<img src="https://skillicons.dev/icons?i=figma" height="65" alt="Figma">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/UI%20DESIGN-050505?style=for-the-badge&logo=figma&logoColor=00F0FF">
-<img src="https://img.shields.io/badge/UX%20DESIGN-050505?style=for-the-badge&logo=figma&logoColor=00F0FF">
-
-</div>
-
----
-
-<div align="center">
-
-## `CONHECIMENTOS`
-
-| Área | Conhecimento |
+| ÁREA | FOCO |
 |:---:|:---|
-| ☕ Java | Lógica de programação e desenvolvimento |
-| 💻 C# | Programação e aplicações |
-| 🤖 IA Generativa | Exploração de ferramentas de IA |
-| 🎨 UI Design | Criação de interfaces |
-| 🧠 UX Design | Usabilidade e experiência do usuário |
-| 🖌️ Figma | Design e prototipação |
+| ☕ **Java** | Lógica e programação |
+| 💻 **C#** | Desenvolvimento de aplicações |
+| 🤖 **IA Generativa** | Exploração e programação com IA |
+| 🎨 **UI/UX** | Interfaces e experiência do usuário |
+| 🖌️ **Figma** | Design e prototipação |
 
 </div>
 
----
-
-<div align="center">
-
-## `FERRAMENTAS`
-
-<img src="https://skillicons.dev/icons?i=java,cs,figma,github" height="60" alt="Java, C#, Figma e GitHub">
-
-<br><br>
-
-<img src="https://img.shields.io/badge/JAVA-DEVELOPMENT-050505?style=for-the-badge&logo=openjdk&logoColor=00F0FF">
-<img src="https://img.shields.io/badge/C%23-DEVELOPMENT-050505?style=for-the-badge&logo=csharp&logoColor=00F0FF">
-<img src="https://img.shields.io/badge/FIGMA-DESIGN-050505?style=for-the-badge&logo=figma&logoColor=00F0FF">
-<img src="https://img.shields.io/badge/GITHUB-CODE-050505?style=for-the-badge&logo=github&logoColor=00F0FF">
-
-</div>
+Meu objetivo é transformar conhecimento em prática, desenvolver projetos cada vez melhores e conquistar minha primeira oportunidade profissional na área de desenvolvimento de software.
 
 ---
 
@@ -128,21 +37,48 @@ Meu objetivo é evoluir como desenvolvedor, criar projetos práticos e conquista
 
 ## `PROJETOS`
 
-```text id="projects"
+<img src="https://img.shields.io/badge/PROJECTS-IN%20DEVELOPMENT-00F0FF?style=for-the-badge&labelColor=050505">
+
+</div>
+
+<div align="center">
+
+### ☕ Java Development
+
+Desenvolvimento de exercícios e aplicações para praticar lógica de programação, estruturas condicionais e resolução de problemas.
+
+### 💻 C# Development
+
+Aprendizado dos fundamentos da linguagem C# e desenvolvimento de soluções utilizando programação orientada a objetos conforme a evolução dos estudos.
+
+### 🤖 Generative AI
+
+Exploração de ferramentas de Inteligência Artificial Generativa para auxiliar no desenvolvimento de software e na criação de soluções digitais.
+
+### 🎨 UI/UX Design
+
+Estudos de interfaces, usabilidade e prototipação utilizando Figma, com foco na experiência do usuário.
+
+</div>
+
+<div align="center">
+
+```text
 ╔══════════════════════════════════════════════════════════════╗
-║                     PROJECT DATABASE                        ║
+║                    PROJECT STATUS                            ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  STATUS: BUILDING                                            ║
+║  STATUS       : IN DEVELOPMENT                               ║
+║  MAIN FOCUS   : BACK-END DEVELOPMENT                         ║
+║  LANGUAGES    : JAVA • C#                                    ║
+║  TECHNOLOGY   : GENERATIVE AI                                ║
 ║                                                              ║
-║  > Prática de programação em Java e C#                       ║
-║  > Estudos de IA Generativa                                  ║
-║  > Desenvolvimento de interfaces com Figma                  ║
-║                                                              ║
-║  NEXT TARGET: BUILD PROJECTS                                 ║
+║  NEXT MISSION : BUILD • TEST • IMPROVE                       ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+
+<sub>Novos projetos serão adicionados conforme forem desenvolvidos e publicados.</sub>
 
 </div>
 
@@ -152,82 +88,39 @@ Meu objetivo é evoluir como desenvolvedor, criar projetos práticos e conquista
 
 ## `OBJETIVOS ATUAIS`
 
-```text id="objectives"
-nicolas@github:~$ ./objectives.sh
+<img src="https://img.shields.io/badge/STATUS-EVOLUTION%20MODE-00F0FF?style=for-the-badge&labelColor=050505">
 
-[✓] Engenharia de Software
-[>] Aprimorar Java
-[>] Desenvolver habilidades em C#
-[>] Explorar programação com IA Generativa
-[>] Evoluir em desenvolvimento Back-End
-[>] Aprimorar UI/UX e Figma
-[>] Criar projetos práticos
-[>] Construir portfólio
-[>] Buscar oportunidades na área de tecnologia
+</div>
 
-STATUS: EVOLUTION MODE
-NEXT TARGET: BUILD
+<div align="center">
+
+| OBJETIVO | DIREÇÃO |
+|:---|:---|
+| ☕ **Java** | Aprofundar a lógica e a programação |
+| 💻 **C#** | Desenvolver habilidades na linguagem |
+| 🤖 **IA Generativa** | Explorar aplicações de inteligência artificial |
+| ⚙️ **Back-End** | Evoluir na construção de aplicações |
+| 🎨 **UI/UX Design** | Aprimorar interfaces e usabilidade |
+| 🖌️ **Figma** | Evoluir no design e na prototipação |
+| 🚀 **Projetos** | Aplicar conhecimentos em projetos práticos |
+| 💼 **Carreira** | Buscar a primeira oportunidade profissional |
+
+</div>
+
+<div align="center">
+
+```text
+nicolas@github:~$ ./next_level.sh
+
+[>] LEARN        : Continuar estudando
+[>] DEVELOP     : Criar projetos práticos
+[>] IMPROVE      : Aprimorar habilidades
+[>] BUILD        : Construir portfólio
+[>] CONNECT      : Conectar-se à comunidade tech
+
+STATUS: EVOLVING
+NEXT TARGET: BACK-END DEVELOPER
 ```
-
-</div>
-
----
-
-<div align="center">
-
-## `SNAKE GAME // ARCADE MODE`
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animação da cobrinha percorrendo o gráfico de contribuições do GitHub" width="100%">
-
-### EAT • GROW • EVOLVE
-
-<a href="https://playsnake.org/" target="_blank">
-<img src="https://img.shields.io/badge/▶_JOGAR_COBRINHA-00F0FF?style=for-the-badge&labelColor=050505" alt="Jogar cobrinha">
-</a>
-
-<br><br>
-
-<sub>ARCADE MODE • SNAKE GAME</sub>
-
-</div>
-
----
-
-<div align="center">
-
-## `PAC-MAN // ARCADE MODE`
-
-<img src="https://media.tenor.com/2uyENRmiUt0AAAAC/pacman.gif" width="220" alt="Pac-Man">
-
-<br>
-
-<a href="https://www.google.com/logos/2010/pacman10-i.html" target="_blank">
-<img src="https://img.shields.io/badge/▶_JOGAR_PAC--MAN-00F0FF?style=for-the-badge&labelColor=050505" alt="Jogar Pac-Man">
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## `CONECTE-SE`
-
-<a href="https://github.com/nicolasmigueltavares2007-maker">
-<img src="https://img.shields.io/badge/GITHUB-NICOLAS%20MIGUEL%20TAVARES-050505?style=for-the-badge&logo=github&logoColor=00F0FF" alt="GitHub">
-</a>
-
-<a href="https://www.linkedin.com/in/nicolas-miguel-tavares-404275329/">
-<img src="https://img.shields.io/badge/LINKEDIN-VAMOS%20NOS%20CONECTAR-050505?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn">
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:0D1117,100:050505&height=130&section=footer" width="100%">
-
-### LEARN • BUILD • CREATE • EVOLVE
-
-<sub>© 2026 Nicolas Miguel Tavares • Software Engineering</sub>
 
 </div>
 ```
